@@ -67,7 +67,7 @@ Requisitos: Docker Desktop (Docker Compose v2).
 
 ```powershell
 # 1. Clonar el repositorio
-git clone <URL_DEL_REPO>
+git clone https://github.com/henrryguz8/tarea-docker.git
 cd tarea-docker
 
 # 2. Crear el archivo de variables de entorno
